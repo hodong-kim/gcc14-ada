@@ -1,0 +1,3 @@
+GCC, the GNU Compiler Collection, supports a number of languages.
+This port installs the C, C++, Fortran, and Ada front ends as gcc14, g++14,
+gfortran14, and gnat14 respectively.
