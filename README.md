@@ -43,7 +43,13 @@ sudo make reinstall
 Alternatively, install the generated package manually:
 
 ```sh
-sudo pkg add -f work/pkg/gcc14-ada-14.x.x.pkg
+sudo pkg add ./work/pkg/gcc14-ada-14.x.x.pkg
+```
+
+Remove gnat13 if previously installed:
+
+```
+sudo pkg remove gnat13
 ```
 
 ## Verification
