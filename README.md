@@ -1,4 +1,4 @@
-# FreeBSD Port: gcc14-ada
+# FreeBSD Unofficial Port: gcc14-ada
 
 > **Note**
 > This port is unofficial and maintained separately from the FreeBSD Ports Collection.
